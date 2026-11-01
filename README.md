@@ -44,7 +44,8 @@ A plain, fast photo and video gallery for Android. No AI, no cloud, no accounts,
 ## Install
 
 - Android 11 or newer (API 30+), built for Android 16 (API 36).
-- It isn't on the Play Store, because Google Play restricts "All files access" for galleries. Install the APK.
+- It isn't on the Play Store, because Google Play restricts "All files access" for galleries.
+- Download the APK from [Releases](https://github.com/Kanorin-chan/gallery/releases/latest) and open it on your phone.
 - On first run it explains, on one screen, why it needs *All files access* and *Media management*, then opens Android's settings page for each.
 
 ## Build
@@ -69,3 +70,7 @@ The design is in [`docs/superpowers/specs/`](docs/superpowers/specs/) and the cu
 Version 0.1.1. It's early, but it's in daily use on a RedMagic 8 Pro. Only a dark theme for now. Tagging and tag search are planned.
 
 Built with [Claude Code](https://claude.com/claude-code).
+
+## License
+
+[MIT](LICENSE): free to use, change and share.

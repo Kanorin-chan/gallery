@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Share roots for files MediaStore doesn't know: internal storage, then every other volume under /storage (SD cards). -->
+<paths>
+    <external-path name="external" path="." />
+    <root-path name="storage" path="storage" />
+</paths>

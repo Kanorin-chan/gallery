@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark only: window background matches the Compose bg so there is no white flash. -->
+    <style name="Theme.Gallery" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0D0E11</item>
+        <item name="android:statusBarColor">#0D0E11</item>
+        <item name="android:navigationBarColor">#0D0E11</item>
+    </style>
+</resources>

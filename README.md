@@ -2,7 +2,15 @@
 
 **Tired of AI feature and slow photo loading?**
 
-A plain, fast photo and video gallery for Android. No AI, no cloud, no accounts, and it doesn't even ask for internet access. It opens on your photos, shows every one of them, and gets out of the way.
+A plain, fast photo and video gallery for Android. No AI, no cloud, no accounts, no ads, and it doesn't even ask for internet access. It opens on your photos, shows every one of them, and gets out of the way.
+
+<p align="center">
+  <img src="docs/screenshots/all.png" width="30%" alt="All view: timeline grid">
+  <img src="docs/screenshots/viewer.png" width="30%" alt="Photo viewer">
+  <img src="docs/screenshots/player.png" width="30%" alt="Video player">
+</p>
+
+<sub>Sample photos in the screenshots are from <a href="https://picsum.photos">Lorem Picsum</a>.</sub>
 
 ## Why it exists
 
